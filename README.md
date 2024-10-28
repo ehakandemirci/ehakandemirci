@@ -41,9 +41,13 @@ Computer Vision:<br>
 <a href="https://play.google.com/console/about/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163937-bf2078a1-ad2d-41b1-a6a2-d635142fe1c2.png" width="36" height="36" alt="Google Play" /></a>
 <a href="https://admob.google.com/intl/tr/home/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163988-a27828de-de6b-4367-a9f2-b9364b887547.png" width="36" height="36" alt="Admob" /></a>
 <br>
-
-
-
+  Trade:<br>
+<a href="https://tr.tradingview.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163914-80846021-0bf6-41d9-9cf4-5a7a6ed093bd.png" width="36" height="36" alt="Native Android" /></a>
+<a href="https://play.google.com/console/about/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163937-bf2078a1-ad2d-41b1-a6a2-d635142fe1c2.png" width="36" height="36" alt="Google Play" /></a>
+<a href="https://admob.google.com/intl/tr/home/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163988-a27828de-de6b-4367-a9f2-b9364b887547.png" width="36" height="36" alt="Admob" /></a>
+<br>
+https://tr.tradingview.com
+https://tr.tradingview.com
 
 ### Socials
 
