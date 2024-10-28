@@ -5,8 +5,8 @@ Merhaba Ben HAKAN 👋
 
 Borsa ve yazılım ile ilgileniyorum.
 
-* 📊  FOREX, XU100, DÜNYA BORSALARI, CRYPTO 
-* 🚀  ARBİTRAJ, ALGORİTMİK TRADE, PAÇAL , TREND TAKİBİ
+* 📊  FOREX, XU, CRYPTO, S&P,XAU
+* 🚀  ARBİTRAJ, ALGORİTMİK TRADE
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hakan demi̇rci̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan demi̇rci̇" height="30" width="40" /></a>
