@@ -8,7 +8,7 @@ Borsa ve yazılım konularında araştırmalar  yapıyorum.
 * 🖥️  
 * ⚡    
 
-Technolojiler
+Teknolojiler
 ----------------------
 <p align="left">
   
