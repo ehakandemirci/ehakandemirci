@@ -1,3 +1,8 @@
+
+* 🖥️  
+* ⚡    
+
+[![MasterHead](https://www.thoughtco.com/thmb/dERLDe_XSnDSzKVZjnAWkKixn4Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/NYSE-sculpt-g-56a02a0b5f9b58eba4af36a4.jpg)
 Merhaba Ben HAKAN 👋
 
 Borsa ve yazılım konularında araştırmalar  yapıyorum. 
@@ -5,13 +10,6 @@ Borsa ve yazılım konularında araştırmalar  yapıyorum.
 * 🌍  istanbul'da yaşıyorum.
 * 📊  FOREX, XU100, DÜNYA BORSALARI, CRYPTO 
 * 🚀  ARBİTRAJ, ALGORİTMİK TRADE, PAÇAL TRADE, TREND TAKİBİ
-* 🖥️  
-* ⚡    
-
-[![MasterHead](https://www.thoughtco.com/thmb/dERLDe_XSnDSzKVZjnAWkKixn4Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/NYSE-sculpt-g-56a02a0b5f9b58eba4af36a4.jpg)
-<h1 align="center">Hi 👋, I'm HAKAN</h1>
-<h3 align="center">A passionate frontend developer from TÜRKİYE</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hakan demi̇rci̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan demi̇rci̇" height="30" width="40" /></a>
