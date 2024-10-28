@@ -41,11 +41,6 @@ Computer Vision:<br>
 <a href="https://play.google.com/console/about/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163937-bf2078a1-ad2d-41b1-a6a2-d635142fe1c2.png" width="36" height="36" alt="Google Play" /></a>
 <a href="https://admob.google.com/intl/tr/home/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163988-a27828de-de6b-4367-a9f2-b9364b887547.png" width="36" height="36" alt="Admob" /></a>
 <br>
-Other:<br>
- <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164786-86a2b1fe-5f77-4a5d-b186-31270b58593c.png" width="36" height="36" alt="linux" /></a>
-<a href="https://www.photopea.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-  <br/>
 
 
 
