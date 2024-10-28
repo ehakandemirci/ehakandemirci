@@ -1,8 +1,6 @@
 
-* 🖥️  
-* ⚡    
+[MasterHead](https://www.thoughtco.com/thmb/dERLDe_XSnDSzKVZjnAWkKixn4Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/NYSE-sculpt-g-56a02a0b5f9b58eba4af36a4.jpg)
 
-[![MasterHead](https://www.thoughtco.com/thmb/dERLDe_XSnDSzKVZjnAWkKixn4Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/NYSE-sculpt-g-56a02a0b5f9b58eba4af36a4.jpg)
 Merhaba Ben HAKAN 👋
 
 Borsa ve yazılım konularında araştırmalar  yapıyorum. 
