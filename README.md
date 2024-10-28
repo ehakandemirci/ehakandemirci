@@ -5,7 +5,6 @@ Merhaba Ben HAKAN 👋
 
 Borsa ve yazılım ile ilgileniyorum.
 
-* 🌍  istanbul'da yaşıyorum.
 * 📊  FOREX, XU100, DÜNYA BORSALARI, CRYPTO 
 * 🚀  ARBİTRAJ, ALGORİTMİK TRADE, PAÇAL , TREND TAKİBİ
 <h3 align="left">Connect with me:</h3>
